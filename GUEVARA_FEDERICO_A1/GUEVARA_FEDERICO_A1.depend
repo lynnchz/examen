@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525878795 source:d:\guevara_federico_a1examen\guevara_federico_a1\main.c
+	"funciones.h"
+
+1525878787 d:\guevara_federico_a1examen\guevara_federico_a1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
